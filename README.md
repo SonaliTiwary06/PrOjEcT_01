@@ -72,7 +72,11 @@ Push to the branch (git push origin feature/AmazingFeature).
 Open a Pull Request.
 
 
-6. Contact :-
+6. Screenshot/Demo
+ Show what the dashboard looks like :- https://github.com/SonaliTiwary06/PrOjEcT_01/blob/main/Screenshot%202025-07-30%20130129.png
+
+
+8. Contact :-
 
 sonali.dtg1@gmail.com
 
