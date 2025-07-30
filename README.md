@@ -80,4 +80,3 @@ Open a Pull Request.
 
 sonali.dtg1@gmail.com
 
-Project Link: https://github.com/your-username/your-dashboard-repo
